@@ -5,10 +5,6 @@ The school district discovered that the standardized test scores for ninth grade
 
 Both math and reading data scores that were not holding the correct values or missing integers were replaced for the student records to assist with making the data more accurate.
 
-![missing_students](https://github.com/Sacdees/school_district_analysis/blob/main/resources/missing_grades.csv)
-![schools_complete](https://github.com/Sacdees/school_district_analysis/blob/main/resources/schools_complete.csv)
-
-
 # Overview of School District Analysis:
 ## District Summary
 ![district_summary](https://github.com/Sacdees/school_district_analysis/blob/main/resources/district_summary.png)
@@ -36,13 +32,8 @@ Average scores and passing percentages among the 15 high schools in the school d
 ![spend_size](https://github.com/Sacdees/school_district_analysis/blob/main/resources/spending_size.png)
 ![spend_type](https://github.com/Sacdees/school_district_analysis/blob/main/resources/spending_type.png)
 
-
-
-Results:
-  -Using bulleted lists and manages 
-  
   
  # Summary-
-  
+  Overall, we were able to provide a great deal of knowledge in order to compare the different grades and school types.  By managing the data correctly we were able to adjust the representation for Thomas School to more closely fall in line with the rest of the school data provided.  This was by simply eliminating scores that either had an input error or had cell values that represents a "0".  This was causing the scores for Thomas school to appear much lower the other schools of similar size and origin.  
   
   
